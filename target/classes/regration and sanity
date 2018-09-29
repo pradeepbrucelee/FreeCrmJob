@@ -1,0 +1,5 @@
+*************regrration *****
+
+-->it means that all test case to we are executed after build completed by using testng xml runner
+
+--> sanity means only important test case we are run. 
