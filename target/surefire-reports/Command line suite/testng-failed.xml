@@ -6,7 +6,6 @@
       <class name="com.crm.qa.testcases.LoginPageTest">
         <methods>
           <include name="setUp"/>
-          <include name="TitelTest"/>
           <include name="tearDown"/>
           <include name="CrmLogoImageTest"/>
           <include name="LoginTest"/>
@@ -23,6 +22,7 @@
       <class name="com.crm.qa.testcases.ContactsPageTest">
         <methods>
           <include name="setup"/>
+          <include name="SelectcontactNameTest"/>
           <include name="validatecreateNewContact"/>
         </methods>
       </class> <!-- com.crm.qa.testcases.ContactsPageTest -->

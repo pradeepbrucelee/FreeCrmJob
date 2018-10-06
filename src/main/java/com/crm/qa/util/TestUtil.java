@@ -17,8 +17,8 @@ import com.crm.qa.base.TestBase;
 
 public class TestUtil extends TestBase{
 	
-	public static long PAGE_LOAD_TIMEOUT = 50;
-	public static long IMPLICIT_WAIT = 30;
+	public static long PAGE_LOAD_TIMEOUT = 100;
+	public static long IMPLICIT_WAIT = 50;
 	
 	public static String TESTDATA_SHEET_PATH = "D:\\pradeep 2018\\Profsional\\workspace\\FreeCrmTest\\src\\main\\java\\com\\crm\\qa\\testdata\\TESTDATAFREECRM.xlsx";
 	
